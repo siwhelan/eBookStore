@@ -1,4 +1,4 @@
-# eBookStore
+# eBookStore 📚📖🧑‍🏫
 
 Welcome to the Ebookstore management system! With this program, you can easily enter new books, view the books in your store, update book quantities, and delete books.
 
