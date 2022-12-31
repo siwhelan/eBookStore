@@ -23,7 +23,7 @@ To install the Ebookstore program, follow these steps:
 
   Clone the repository to your local machine:
     
-    git clone https://github.com/USERNAME/ebookstore.git
+    git clone https://github.com/siwhelan/eBookStore
     
   Navigate to the repository directory:
   
