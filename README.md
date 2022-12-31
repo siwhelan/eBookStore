@@ -3,7 +3,7 @@
 Welcome to the Ebookstore management system! With this program, you can easily enter new books, view the books in your store, update book quantities, and delete books.
 
 
-# Features
+## Features
 
     -> Add new books to your store by entering the book ID, title, author, and quantity
     -> View a list of all the books in your store, along with their ID, title, author, and quantity
@@ -11,13 +11,13 @@ Welcome to the Ebookstore management system! With this program, you can easily e
     -> Delete a book from your store
     
 
-# Requirements
+## Requirements
 
     Python 3
     SQLite
     
 
-# Installation
+## Installation
 
 To install the Ebookstore program, follow these steps:
 
@@ -34,7 +34,7 @@ To install the Ebookstore program, follow these steps:
     python ebookstore.py
     
     
-# Proactive Defensive Programming and Error Handling
+## Proactive Defensive Programming and Error Handling
 
 Robustness and user-friendliness is paramount. To achieve this, proactive defensive programming and error handling techniques have been implemented to ensure that the program can gracefully handle invalid or unexpected input.
 
@@ -45,9 +45,6 @@ Similarly, in the view_books(), update_book(), and delete_book() functions, we c
 Overall, these error handling techniques help to make the program more reliable and user-friendly.
 
 
-# Feedback
+## Feedback
 
 If you have any feedback, please reach out to me at simon@swhelan.dev
-
-    
-    
