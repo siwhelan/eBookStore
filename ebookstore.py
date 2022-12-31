@@ -9,7 +9,7 @@ cursor = db.cursor()
 # ===== Functions to perform user inputted requests ===== #
 
 
-# Function to allow user top enter a new book
+# Function to allow user to enter a new book
 
 
 def enter_book():
